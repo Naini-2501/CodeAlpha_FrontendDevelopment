@@ -61,11 +61,8 @@ A personal portfolio website showcasing skills, projects, and contact informatio
 CodeAlpha_FrontendDevelopment
 
 ├── ImageGallery
-
 ├── Calculator
-
 ├── Portfolio
-
 └── README.md
 
 ## Internship

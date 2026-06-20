@@ -55,7 +55,6 @@ A personal portfolio website showcasing skills, projects, and contact informatio
 **Naini Vanam**
 
 * GitHub: https://github.com/Naini-2501
-* LinkedIn: https://www.linkedin.com/in/naini-vanam-77a5bb370
 
 ## Repository Structure
 
